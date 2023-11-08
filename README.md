@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeanTang001
-- 🌱 I’m currently studying Electrical and Computer Engineering @ UCLA
+- 🌱 I’m currently studying Computer Science and Engineering @ UCLA
 [![Sean's's github stats](https://github-readme-stats.vercel.app/api?username=SeanTang001)](https://github.com/SeanTang001/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanTang001)](https://github.com/SeanTang001/github-readme-stats)
 
